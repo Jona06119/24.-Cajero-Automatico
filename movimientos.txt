@@ -1,0 +1,2 @@
+DEPOSITO | Importe: 34567890.00 | Saldo: 34572890.00
+RETIRO | Importe: 23678.00 | Saldo: 34549212.00
